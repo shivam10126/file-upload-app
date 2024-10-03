@@ -8,7 +8,7 @@ import { Card, CardContent, CardFooter, CardHeader, CardTitle } from "@/componen
 import { Tabs, TabsContent, TabsList, TabsTrigger } from "@/components/ui/tabs"
 import { Alert, AlertDescription, AlertTitle } from "@/components/ui/alert"
 import { Progress } from "@/components/ui/progress"
-import { Upload, FileType, Image as ImageIcon, Film, FileAudio, FileText, User, LogOut } from 'lucide-react'
+import { Upload, FileType, Image as ImageIcon, Film, FileAudio, FileText, LogOut } from 'lucide-react'
 
 // Cloudinary configuration
 const CLOUDINARY_UPLOAD_PRESET = 'your_upload_preset'
